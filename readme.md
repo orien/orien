@@ -1,7 +1,5 @@
 # Hi, I'm Orien 👋
 
-:pin: **Melbourne ↔ Bangkok ↔ Tauranga** | :heart: **Building software in service of human dignity, justice, and compassion**
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
